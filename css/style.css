@@ -1,0 +1,26 @@
+.boxSize{
+    height:350px;
+    width: 400px;
+    border-radius: 1px;
+    outline-style: ridge;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.brown {
+    background-color: rgb(72, 21, 21);
+}
+
+.yellow {
+    background-color: yellow;
+}
